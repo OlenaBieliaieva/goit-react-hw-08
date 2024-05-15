@@ -1,0 +1,15 @@
+.container {
+  max-width: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+}
+.navText {
+  font-size: 18px;
+  text-decoration: none;
+  color: black;
+}
+.navText:hover {
+  font-weight: 500;
+}
